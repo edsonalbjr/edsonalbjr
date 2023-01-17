@@ -1,6 +1,6 @@
 ## Oi meu nome é Edson Albuquerque, estudante de programação e tecnologia!
 
-- 👨‍💻 Full Stack Dev. Jr em formação - Python | HTML, CSS e JavaScript | MySQL | Loading...
+- 👨‍💻 Full Stack Dev. Jr em formação - HTML, CSS e JavaScript | MySQL | Loading...
 - 💻 Técnico em Redes de Computadores (ETE-Gravatá) 
 - 👨‍🔧 Montagem e Manutenção de Computadores. 
 
@@ -12,7 +12,6 @@
   <img align="center" alt="Edson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Edson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Edson-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
