@@ -1,6 +1,6 @@
 ## Oi meu nome é Edson Albuquerque, estudante de programação e tecnologia!
 
-- 👨‍💻 Full Stack Dev. Jr em formação - HTML5, CSS3, SASS, JavaScript, TypeScript, Bootsrap, React, NodeJS (Express + Sequelize) | MySQL | Loading...
+- 👨‍💻 Full Stack Dev. Jr em formação - HTML5, CSS3, SASS, JavaScript, TypeScript, Bootstrap, React, NodeJS (Express + Sequelize) | MySQL | Loading...
 - 💻 Técnico em Redes de Computadores (ETE-Gravatá)
 - 👨‍🔧 Montagem e Manutenção de Computadores.
 
