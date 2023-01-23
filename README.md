@@ -4,6 +4,9 @@
 - 💻 Técnico em Redes de Computadores (ETE-Gravatá)
 - 👨‍🔧 Montagem e Manutenção de Computadores.
 
+| <a href="https://github.com/edsonalbjr/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edsonalbjr&show_icons=true&include_all_commits=true&theme=slateorange&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/edsonalbjr/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonalbjr&layout=compact&theme=slateorange&hide_border=true" /></a> |
+| ------------- | ------------- |
+
   #### Estudante das Tecnologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="Edson-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
